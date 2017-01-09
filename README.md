@@ -4,7 +4,7 @@ Student Science, Business and Innovation<br>
 Studentnummer: 11427353<br>
 Start van het project: 9-1-2017<br>
 # Project proposal
-## Paragraph summary
+## Korte samenvatting
 Deze applicatie bevordert de studie door middel van het studeren in korte stukken inclusief pauzes door middel van een timer. De leertijd en pauzetijd zijn door de gebruiker zelf in te voeren. Daarnaast kan de gebruiker zich vergelijken met zijn collega’s hoeveel tijd zij hebben gestudeerd. 
 ## Het probleem
 Veel studenten hebben moeite met het concentreren bij het leren. Alle apparaten die men tegenwoordig tot zijn beschikking heeft, maken het niet makkelijker om gefocust te blijven. Met name de mobiele telefoon zorgt voor veel afleiding bij studenten van verschillende leeftijden. 
