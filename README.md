@@ -14,8 +14,8 @@ Daarom zorgt deze applicatie ervoor dat je mobiele telefoon op de ‘Niet storen
 Hieronder zijn schetsen te zien van de verschillende schermen die de applicatie bevat.<br>
 Het inlogscherm<br>
 ![Het inlogscherm]
-(/doc/Inlogscherm.png)
-Het keuzemenu<br>
+(/doc/Inlogscherm.png)<br>
+Het keuzemenu
 ![Het keuzemenu]
 (/doc/Keuzemenu.png)
 Het vriendenscherm<br>
