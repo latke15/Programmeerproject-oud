@@ -12,21 +12,17 @@ Veel studenten hebben moeite met het concentreren bij het leren. Alle apparaten 
 Daarom zorgt deze applicatie ervoor dat je mobiele telefoon op de ‘Niet storen’ modus gaat tijdens het studeren. Daarnaast kan de gebruiker zelf kiezen op welke manier hij of zij zijn tijd in wil delen. Bijvoorbeeld door te kiezen om in periodes van halve uren te studeren met telkens tien minuten pauze ertussen. Er zal dan een alarm afgaan wanneer het halve uur voorbij is en wanneer het weer begint. Om de applicatie wat interessanter te maken dan alleen nuttig gebruik, kunnen scores vergeleken worden met vrienden. Zo kan je zien wie er het hardst heeft geleerd.
 ## De visualisatie
 Hieronder zijn schetsen te zien van de verschillende schermen die de applicatie bevat.<br>
-Het inlogscherm<br>
+De afbeeldingen staan in de volgende volgorde: Het inlogscherm, het keuzemenu, het vriendenscherm, het klassementscherm en het leerscherm.
 ![Het inlogscherm]
-(/doc/Inlogscherm.png)<br>
-Het keuzemenu
+(/doc/Inlogscherm.png)
 ![Het keuzemenu]
-(/doc/Keuzemenu.png)<br>
-Het vriendenscherm
+(/doc/Keuzemenu.png)
 ![Het vriendenscherm]
-(/doc/Vrienden.png)<br>
-Het klassementscherm
+(/doc/Vrienden.png)
 ![Het klassementscherm]
-(/doc/Klassement.png)<br>
-Het leerscherm
+(/doc/Klassement.png)
 ![Het leerscherm]
-(/doc/Begin met leren!.png)<br>
+(/doc/Begin met leren!.png)
 ## Data sets en data sources
 Het betreft vooral voorgeprogrammeerde methoden, waar de gebruiker zelf details aan kan veranderen. Denk hierbij aan de manier waarop de gebruiker zelf zijn tijd in wil delen. Daarnaast kan de gebruiker vrienden toevoegen en dus zal er informatie van die vrienden opgehaald en getoond moeten worden.
 ## Delen van de applicatie
@@ -35,6 +31,3 @@ De applicatie bestaat uit verschillende onderdelen. Zo moet elke gebruiker begin
 Er dient voor deze applicatie data opgeslagen te worden, dit wordt gedaan door middel van Firebase. Hierin gaan alle gebruikersgegevens worden opgeslagen zoals, emailadressen, wachtwoorden, scores, vrienden en dergelijke.
 ## Te verwachten problemen
 Bij deze applicatie zijn er een aantal problemen die ik nu voorzie waar ik tegenaan ga lopen. Zo is het inschakelen van de ‘Niet storen’ modus nog maar de vraag of dit mogelijk is. Het toevoegen van vrienden is een ander obstakel waar nog best veel tijd in gaat zitten om dat voor elkaar te krijgen. In principe moet dit lukken, maar als deze problemen niet kunnen worden opgelost zal er of een alternatief gevonden moeten worden of het idee wordt geschrapt. Dit zijn dan ook de onderdelen die niet bij de MVP (Minimum Viable Product) horen, maar als het lukt is het zeker weten mooi meegenomen
-
-
-
