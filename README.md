@@ -11,20 +11,20 @@ Veel studenten hebben moeite met het concentreren bij het leren. Alle apparaten 
 ## De oplossing
 Daarom zorgt deze applicatie ervoor dat je mobiele telefoon op de ‘Niet storen’ modus gaat tijdens het studeren. Daarnaast kan de gebruiker zelf kiezen op welke manier hij of zij zijn tijd in wil delen. Bijvoorbeeld door te kiezen om in periodes van halve uren te studeren met telkens tien minuten pauze ertussen. Er zal dan een alarm afgaan wanneer het halve uur voorbij is en wanneer het weer begint. Om de applicatie wat interessanter te maken dan alleen nuttig gebruik, kunnen scores vergeleken worden met vrienden. Zo kan je zien wie er het hardst heeft geleerd.
 ## De visualisatie
-Hieronder zijn schetsen te zien van de verschillende schermen die de applicatie bevat.
-Het inlogscherm
+Hieronder zijn schetsen te zien van de verschillende schermen die de applicatie bevat.<br>
+Het inlogscherm<br>
 ![Het inlogscherm]
 (/doc/Inlogscherm.png)
-Het keuzemenu
+Het keuzemenu<br>
 ![Het keuzemenu]
 (/doc/Keuzemenu.png)
-Het vriendenscherm
+Het vriendenscherm<br>
 ![Het vriendenscherm]
 (/doc/Vrienden.png)
-Het klassementscherm
+Het klassementscherm<br>
 ![Het klassementscherm]
 (/doc/Klassement.png)
-Het leerscherm
+Het leerscherm<br>
 ![Het leerscherm]
 (/doc/Begin met leren!.png)
 ## Data sets en data sources
