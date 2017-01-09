@@ -1,5 +1,5 @@
 # Programmeerproject
-Nadav Baruch
+Nadav Baruch<br>
 Student Science, Business and Innovation
 Studentnummer: 11427353
 # Project proposal
