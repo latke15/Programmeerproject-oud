@@ -1,8 +1,8 @@
 # Programmeerproject
 ## Nadav Baruch
-## Student Science, Business and Innovation
-## Studentnummer: 11427353
-## Start van het project: 9-1-2017
+Student Science, Business and Innovation<br>
+Studentnummer: 11427353<br>
+Start van het project: 9-1-2017<br>
 # Project proposal
 ## Korte samenvatting
 Deze applicatie bevordert de studie door middel van het studeren in korte stukken inclusief pauzes door middel van een timer. De leertijd en pauzetijd zijn door de gebruiker zelf in te voeren. Daarnaast kan de gebruiker zich vergelijken met zijn collega’s hoeveel tijd zij hebben gestudeerd. 
