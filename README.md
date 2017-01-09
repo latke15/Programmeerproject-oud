@@ -6,3 +6,5 @@ Studentnummer: 11427353<br>
 
 # Doel van de applicatie
 
+![Het inlogscherm]
+(/doc/Inlogscherm.png)
