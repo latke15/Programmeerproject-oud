@@ -17,16 +17,16 @@ Het inlogscherm<br>
 (/doc/Inlogscherm.png)<br>
 Het keuzemenu
 ![Het keuzemenu]
-(/doc/Keuzemenu.png)
-Het vriendenscherm<br>
+(/doc/Keuzemenu.png)<br>
+Het vriendenscherm
 ![Het vriendenscherm]
-(/doc/Vrienden.png)
-Het klassementscherm<br>
+(/doc/Vrienden.png)<br>
+Het klassementscherm
 ![Het klassementscherm]
-(/doc/Klassement.png)
-Het leerscherm<br>
+(/doc/Klassement.png)<br>
+Het leerscherm
 ![Het leerscherm]
-(/doc/Begin met leren!.png)
+(/doc/Begin met leren!.png)<br>
 ## Data sets en data sources
 Het betreft vooral voorgeprogrammeerde methoden, waar de gebruiker zelf details aan kan veranderen. Denk hierbij aan de manier waarop de gebruiker zelf zijn tijd in wil delen. Daarnaast kan de gebruiker vrienden toevoegen en dus zal er informatie van die vrienden opgehaald en getoond moeten worden.
 ## Delen van de applicatie
