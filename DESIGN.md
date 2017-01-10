@@ -2,7 +2,7 @@
 ## Klassen 
 Aangezien een groot deel van de applicatie geen klassen nodig heeft, worden deze ook achterwege gelaten. Dit zorgt voor overzicht in het geheel. Als er tijdens het proces tegen problemen aangelopen wordt die opgelost kunnen worden met behulp van klassen, zullen deze uiteraard wel gebruikt gaan worden dan. Zo zou bijvoorbeeld voor de gebruikersgegevens een klasse kunnen worden gebruikt, maar is dit niet nodig naar mijn idee, dus wordt dit met de huidige kennis achterwege gelaten. 
 ## Schetsen
-Hier een overzicht van hoe de applicatie in zijn werk gaat en hoe de verschillende schermen met elkaar verbonden zijn. 
+Hier een overzicht van hoe de applicatie in zijn werk gaat en hoe de verschillende schermen met elkaar verbonden zijn.<br> 
 ![Het overzicht van alle schermen]
 (/doc/Schermafbeelding 2017-01-10 om 13.41.11.png)
 ## API’s, Frameworks en plugins
