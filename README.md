@@ -1,4 +1,4 @@
-# Programmeerproject
+# Programmeerproject "Help me study!"
 Nadav Israël Zecharja Baruch<br>
 Student Science, Business and Innovation<br>
 Studentnummer: 11427353<br>
