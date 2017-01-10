@@ -4,7 +4,7 @@ Aangezien een groot deel van de applicatie geen klassen nodig heeft, worden deze
 ## Schetsen
 Hier een overzicht van hoe de applicatie in zijn werk gaat en hoe de verschillende schermen met elkaar verbonden zijn.<br> 
 ![Het overzicht van alle schermen]
-(Programmeerproject/doc/Schermafbeelding 2017-01-10 om 13.56.02.png)
+(/doc/Schermafbeelding 2017-01-10 om 13.56.02.png)
 ## API’s, Frameworks en plugins
 Deze applicatie maakt geen gebruik van API’s, omdat er geen data gehaald dient te worden van een externe bron. Voor het gebruik van een timer om de leertijd te laten lopen hoeft in principe geen extern framework of plugin gebruikt te worden. Daarentegen is het wel interessant om de applicatie een professionele lay-out te geven, hier zijn misschien wel frameworks of plugins voor nodig.
 ## Externe databronnen
