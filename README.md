@@ -9,7 +9,7 @@ Deze applicatie bevordert de studie door middel van het studeren in korte stukke
 ## Het probleem
 Veel studenten hebben moeite met het concentreren bij het leren. Alle apparaten die men tegenwoordig tot zijn beschikking heeft, maken het niet makkelijker om gefocust te blijven. Met name de mobiele telefoon zorgt voor veel afleiding bij studenten van verschillende leeftijden. 
 ## De oplossing
-Daarom zorgt deze applicatie ervoor dat je mobiele telefoon op de ‘Niet storen’ modus gaat tijdens het studeren. Daarnaast kan de gebruiker zelf kiezen op welke manier hij of zij zijn tijd in wil delen. Bijvoorbeeld door te kiezen om in periodes van halve uren te studeren met telkens tien minuten pauze ertussen. Er zal dan een alarm afgaan wanneer het halve uur voorbij is en wanneer het weer begint. Om de applicatie wat interessanter te maken dan alleen nuttig gebruik, kunnen scores vergeleken worden met vrienden. Zo kan je zien wie er het hardst heeft geleerd.
+Daarom zorgt deze applicatie ervoor dat de gebruiker zelf kan kiezen op welke manier hij of zij zijn tijd in wil delen. Bijvoorbeeld door te kiezen om in periodes van halve uren te studeren met telkens tien minuten pauze ertussen. Er zal dan een alarm afgaan wanneer het halve uur voorbij is en wanneer het weer begint. Om de applicatie wat interessanter te maken dan alleen nuttig gebruik, kunnen scores vergeleken worden met vrienden. Zo kan je zien wie er het hardst heeft geleerd.
 ## De visualisatie
 Hieronder zijn schetsen te zien van de verschillende schermen die de applicatie bevat.<br>
 De afbeeldingen staan in de volgende volgorde: Het inlogscherm, het keuzemenu, het vriendenscherm, het klassementscherm en het leerscherm.
