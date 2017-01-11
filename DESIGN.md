@@ -1,6 +1,6 @@
 # Design document
 ## Klassen 
-Aangezien een groot deel van de applicatie geen klassen nodig heeft, worden deze ook achterwege gelaten. Dit zorgt voor overzicht in het geheel. Als er tijdens het proces tegen problemen aangelopen wordt die opgelost kunnen worden met behulp van klassen, zullen deze uiteraard wel gebruikt gaan worden dan. Zo zou bijvoorbeeld voor de gebruikersgegevens een klasse kunnen worden gebruikt, maar is dit niet nodig naar mijn idee, dus wordt dit met de huidige kennis achterwege gelaten. 
+Aangezien een groot deel van de applicatie geen klassen nodig heeft, worden deze ook achterwege gelaten. Om het overzichtelijk te houden, is het makkelijk om voor elk scherm de bijbehorende code te voegen in plaats van dit op een aparte plek te houden. Aangezien er niet veel schermen zijn, zou dit overzichtelijk moeten blijven. Als er tijdens het proces tegen problemen aangelopen wordt die opgelost kunnen worden door het wel apart van elkaar te plaatsen of met behulp van klassen, zal hier zeker over nagedacht worden. Zo zouden bijvoorbeeld voor de gebruikersgegevens een klasse kunnen worden gebruikt, maar is dit niet nodig naar mijn idee, dus wordt dit met de huidige kennis achterwege gelaten. 
 ## Schetsen
 Hier een overzicht van hoe de applicatie in zijn werk gaat en hoe de verschillende schermen met elkaar verbonden zijn.<br> 
 ![Het overzicht van alle schermen]
